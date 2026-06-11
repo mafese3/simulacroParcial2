@@ -2,6 +2,8 @@
 
 Aplicación web Flask que muestra información sobre los emires y sultanes nazaríes de Granada.
 
+![CI](https://github.com/mafese3/simulacroParcial2/actions/workflows/ci-cd.yml/badge.svg)
+
 ## Rutas
 
 | Ruta | Descripción |
