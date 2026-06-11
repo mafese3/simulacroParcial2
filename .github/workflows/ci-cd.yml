@@ -20,6 +20,7 @@ jobs:
           name: pytest-report
           path: report.xml
   build-and-push:
+    needs: test
     runs-on: ubuntu-latest
     steps:
       - name: Checkout del código
